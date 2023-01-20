@@ -52,7 +52,7 @@ public class MainFrame extends JFrame {
 	private JLabel humidityValue;
 	private JLabel precipLabel;
 	private JLabel precipValue;
-	private JLabel descriptionLabe;
+	private JLabel descriptionLabel;
 
 	public MainFrame(String title) {
 		super(title);
